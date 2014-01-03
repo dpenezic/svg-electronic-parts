@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7.2000093"
+   height="3.6001115"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="cap-0603.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3046"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3422"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3756"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4481"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4895"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5349"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5843"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6377"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7112"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective16910"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective34186"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective35899"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective35899-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective36866"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective36866-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective121706"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400067"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400333"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400372"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400400"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400428"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400428-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400469"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400469-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400596"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400642"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400811"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective400839"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401021"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401043"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401349"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401377"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401552"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401580"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401767"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401767-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401811"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective401811-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective402372"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective402427"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective411301"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="126.71353"
+     inkscape:cx="3.8475685"
+     inkscape:cy="1.8988268"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816"
+       empspacing="20"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="false"
+       units="in"
+       spacingx="0.005in"
+       spacingy="0.005in"
+       empcolor="#991800"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-297,-494.35966)">
+    <rect
+       id="middle"
+       height="24.299999"
+       y="443.05969"
+       x="297"
+       width="72"
+       style="fill:#303030;stroke-width:0" />
+    <rect
+       id="top"
+       height="2.214"
+       y="443.05969"
+       x="297"
+       width="72"
+       style="fill:#3d3d3d;stroke-width:0" />
+    <rect
+       id="bottom"
+       height="2.214"
+       y="465.14569"
+       x="297"
+       width="72"
+       style="fill:#000000;stroke-width:0" />
+    <polygon
+       id="right"
+       points="800,30 792.5,54.6 792.5,275.4 800,300 "
+       style="fill:#141414;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <polygon
+       id="left"
+       points="0,30 7.5,54.6 7.5,275.4 0,300 "
+       style="fill:#1f1f1f;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <polygon
+       id="left-upper-rect"
+       points="50,165 50,115 7.5,114.6 5.6,135.8 5.6,165 "
+       style="fill:#1c1c1c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <polygon
+       id="left-lower-rect"
+       points="5.6,194.2 7.5,215.5 50,215.5 50,165 5.6,165 "
+       style="fill:#383838;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <path
+       d="m 297.504,452.5817 0,5.247 c 1.323,-0.153 2.358,-1.26 2.358,-2.628 0,-1.368 -1.026,-2.466 -2.358,-2.619 z"
+       id="slot"
+       style="fill:#262626;stroke-width:0" />
+    <path
+       d="m 297.675,445.2737 0,5.391 c 2.142,0.405 3.771,2.277 3.771,4.536 0,2.259 -1.62,4.14 -3.771,4.545 l 0,0.009 4.5,0 0,-14.481 -4.5,0 z"
+       id="cover"
+       style="fill:#303030;stroke-width:0" />
+    <circle
+       id="circle399984"
+       r="20.6"
+       cy="234.7"
+       cx="65"
+       d="m 85.6,234.7 c 0,11.37706 -9.222934,20.6 -20.6,20.6 -11.377066,0 -20.6,-9.22294 -20.6,-20.6 0,-11.37707 9.222934,-20.6 20.6,-20.6 11.377066,0 20.6,9.22293 20.6,20.6 z"
+       sodipodi:cx="65"
+       sodipodi:cy="234.7"
+       sodipodi:rx="20.6"
+       sodipodi:ry="20.6"
+       style="fill:#212121;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <text
+       font-size="80"
+       id="label"
+       y="455.20969"
+       x="302.85001"
+       style="font-size:7.19999981px;text-anchor:start;fill:#e6e6e6;stroke:none;font-family:OCRA">ULN2003A</text>
+    <rect
+       id="connector0pin"
+       height="3.9060001"
+       y="466.15369"
+       x="300.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector0terminal"
+       height="2.7"
+       y="467.35971"
+       x="300.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon399989"
+       points="85,286.6 35,286.6 35,306.6 65,306.6 85,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector15pin"
+       height="3.9060001"
+       y="440.35971"
+       x="300.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector15terminal"
+       height="2.7"
+       y="440.35971"
+       x="300.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon399993"
+       points="35,43.4 85,43.4 85,32.6 65,23.4 35,23.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector7pin"
+       height="3.9060001"
+       y="466.15369"
+       x="363.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector7terminal"
+       height="2.7"
+       y="467.35971"
+       x="363.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon399997"
+       points="765,286.6 715,286.6 715,297.4 735,306.6 765,306.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector8pin"
+       height="3.9060001"
+       y="440.35971"
+       x="363.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector8terminal"
+       height="2.7"
+       y="440.35971"
+       x="363.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400001"
+       points="715,43.4 765,43.4 765,23.4 735,23.4 715,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector1pin"
+       height="3.9060001"
+       y="466.15369"
+       x="309.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector1terminal"
+       height="2.7"
+       y="467.35971"
+       x="309.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400005"
+       points="135,306.6 165,306.6 185,297.4 185,286.6 115,286.6 115,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector14pin"
+       height="3.9060001"
+       y="440.35971"
+       x="309.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector14terminal"
+       height="2.7"
+       y="440.35971"
+       x="309.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400009"
+       points="165,23.4 135,23.4 115,32.6 115,43.4 185,43.4 185,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector2pin"
+       height="3.9060001"
+       y="466.15369"
+       x="318.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector2terminal"
+       height="2.7"
+       y="467.35971"
+       x="318.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400013"
+       points="235,306.6 265,306.6 285,297.4 285,286.6 215,286.6 215,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector13pin"
+       height="3.9060001"
+       y="440.35971"
+       x="318.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector13terminal"
+       height="2.7"
+       y="440.35971"
+       x="318.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400017"
+       points="265,23.4 235,23.4 215,32.6 215,43.4 285,43.4 285,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector3pin"
+       height="3.9060001"
+       y="466.15369"
+       x="327.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector3terminal"
+       height="2.7"
+       y="467.35971"
+       x="327.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400021"
+       points="335,306.6 365,306.6 385,297.4 385,286.6 315,286.6 315,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector12pin"
+       height="3.9060001"
+       y="440.35971"
+       x="327.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector12terminal"
+       height="2.7"
+       y="440.35971"
+       x="327.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400025"
+       points="365,23.4 335,23.4 315,32.6 315,43.4 385,43.4 385,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector4pin"
+       height="3.9060001"
+       y="466.15369"
+       x="336.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector4terminal"
+       height="2.7"
+       y="467.35971"
+       x="336.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400029"
+       points="435,306.6 465,306.6 485,297.4 485,286.6 415,286.6 415,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector11pin"
+       height="3.9060001"
+       y="440.35971"
+       x="336.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector11terminal"
+       height="2.7"
+       y="440.35971"
+       x="336.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400033"
+       points="465,23.4 435,23.4 415,32.6 415,43.4 485,43.4 485,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector5pin"
+       height="3.9060001"
+       y="466.15369"
+       x="345.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector5terminal"
+       height="2.7"
+       y="467.35971"
+       x="345.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400037"
+       points="535,306.6 565,306.6 585,297.4 585,286.6 515,286.6 515,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector10pin"
+       height="3.9060001"
+       y="440.35971"
+       x="345.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector10terminal"
+       height="2.7"
+       y="440.35971"
+       x="345.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400041"
+       points="565,23.4 535,23.4 515,32.6 515,43.4 585,43.4 585,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector6pin"
+       height="3.9060001"
+       y="466.15369"
+       x="354.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector6terminal"
+       height="2.7"
+       y="467.35971"
+       x="354.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400045"
+       points="635,306.6 665,306.6 685,297.4 685,286.6 615,286.6 615,297.4 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <rect
+       id="connector9pin"
+       height="3.9060001"
+       y="440.35971"
+       x="354.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <rect
+       id="connector9terminal"
+       height="2.7"
+       y="440.35971"
+       x="354.14999"
+       width="2.7"
+       style="fill:#8c8c8c;stroke-width:0" />
+    <polygon
+       id="polygon400049"
+       points="665,23.4 635,23.4 615,32.6 615,43.4 685,43.4 685,32.6 "
+       style="fill:#8c8c8c;stroke-width:0"
+       transform="matrix(0.09,0,0,0.09,297,440.3597)" />
+    <g
+       id="g411467">
+      <g
+         style="fill:#785b47;fill-opacity:1"
+         transform="matrix(1.3333353,0,0,1.3333648,420.60018,1254.8313)"
+         id="g10334">
+        <rect
+           style="fill:#785b47;fill-opacity:1"
+           y="-570.34027"
+           x="-92.699997"
+           width="5.3999977"
+           height="2.7000053"
+           id="rect9406" />
+      </g>
+      <path
+         id="path9416"
+         d="m 303.3684,494.35977 0,0 0,0 -0.0684,0 0,0 c -0.0588,0.44512 -0.0994,1.41161 -0.0994,1.9064 0,0.51608 0.0354,1.22897 0.0994,1.6936 l 0,0 0,0 0.9,0 0,-3.6 -0.83156,0 z"
+         style="fill:#dcdcdc" />
+      <path
+         sodipodi:nodetypes="cccccscc"
+         id="path9418"
+         d="m 297.89926,494.35975 0,4e-5 -0.89926,0 0,3.59998 0.9,0 c 0.0648,-0.4664 0.14208,-1.16865 0.14208,-1.69181 0,-0.6136 -0.0553,-1.37444 -0.14288,-1.90821 l 0,0 z"
+         style="fill:#dcdcdc" />
+      <line
+         id="line9432"
+         y2="497.05975"
+         x2="297.74301"
+         y1="497.05975"
+         x1="297.74301"
+         style="fill:none" />
+    </g>
+  </g>
+</svg>
