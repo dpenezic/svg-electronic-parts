@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="cap-tantal-C-6032-Y.svg">
+   sodipodi:docname="cap-tantal-D-X-V-7343-Y.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -375,7 +375,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -385,18 +385,18 @@
      id="layer1"
      transform="translate(-297,-482.2098)">
     <g
-       id="g413006">
+       id="g414689">
       <rect
-         y="487.15979"
+         y="485.3598"
          x="297"
-         height="5.3999877"
+         height="9"
          width="0.44999999"
          id="rect411866"
          style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
       <rect
-         y="487.15979"
+         y="485.3598"
          x="321.75"
-         height="5.3999929"
+         height="9.0000029"
          width="0.44999999"
          id="rect411866-0"
          style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
